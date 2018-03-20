@@ -1,0 +1,26 @@
+body{
+  background-color: #79a9f7;
+}
+.jumbotron{
+  color: white;
+  background-color: transparent;
+}
+
+.container{
+  background-color: #376ec6;
+  color: white;
+  margin-top: 2%;
+  margin-left: 5%;
+  border-style: double;
+  border-radius: 1%;
+}
+
+input{
+  width: 90%;
+}
+
+#SignUp{
+  color: #666970;
+  background-color: white;
+  border-right-style: groove; 
+}

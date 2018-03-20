@@ -1,0 +1,33 @@
+body{
+	height: 100%;
+	width: 100%;
+}
+
+
+header{
+	background-image: url("main.jpg");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+#btn{
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 25%;
+
+}
+
+#lostbtn{
+	background-color: #f76565;
+	margin-right: 5px;
+}
+
+#signUpLogIn{
+	position: absolute;
+	top: 0;
+	right:  0;
+	background-color: #3bc4f9;
+}
